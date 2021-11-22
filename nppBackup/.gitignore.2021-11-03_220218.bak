@@ -1,0 +1,12 @@
+# ignora os arquivos com extensões 
+.gitignore
+
+# ignora os arquivos com extensões 
+.mp3
+
+# ignora quaisquer diretórios chamados "env"
+.env/
+
+Luis_Felipe_Class#9_2021/Interchange_Intro/*
+Luis_Felipe_Class#9_2021/Interchange_1/.pdf
+Luis_Felipe_Class#9_2021/Book_2/.pdf
